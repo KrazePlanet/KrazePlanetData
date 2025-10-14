@@ -1,0 +1,4 @@
+api.pebble.watch
+auth.pebble.watch
+www.pebble.watch
+auth-api.pebble.watch

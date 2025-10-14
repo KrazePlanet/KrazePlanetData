@@ -1,0 +1,7 @@
+gitlab.prod.pipelines.cloudseis.rocks
+gitlab.pipelines.cloudseis.rocks
+minio.prod.pipelines.cloudseis.rocks
+www.cloudseis.rocks
+minio.pipelines.cloudseis.rocks
+api.cloudseis.rocks
+app.cloudseis.rocks
